@@ -7,4 +7,4 @@ The project uses pyenv and pytest.  It also demonstrates how to generate egg fil
 Here is a link to a blog post that explains how this application was built.
 
 
-pip install gill
+                pip install -r requirements.txt
